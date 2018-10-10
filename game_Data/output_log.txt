@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\GitHub\Unity\Nature Hazard\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\GitHub\Unity\Nature Hazard\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\GitHub\Unity\Nature Hazard\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\GitHub\Unity\Nature Hazard\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\GitHub\Unity\Nature Hazard\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\GitHub\Unity\Nature Hazard\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\GitHub\Unity\Nature Hazard\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\GitHub\Unity\Nature Hazard\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\GitHub\Unity\Nature Hazard\game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading G:\GitHub\Unity\Nature Hazard\game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: G:\GitHub\Unity\Nature Hazard\game_Data\Managed\TextMeshPro-5.6-Runtime.dll (this message is harmless)
+Loading G:\GitHub\Unity\Nature Hazard\game_Data\Managed\TextMeshPro-5.6-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: G:\GitHub\Unity\Nature Hazard\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\GitHub\Unity\Nature Hazard\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.867339 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2158 -> priority: 1 
+  Thread -> id: 2068 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.519721 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 433.
+Total: 0.796541 ms (FindLiveObjects: 0.041052 ms CreateObjectMapping: 0.038202 ms MarkObjects: 0.654566 ms  DeleteObjects: 0.051886 ms)
+
